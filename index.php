@@ -2,8 +2,8 @@
     error_reporting(0);
 
     $server = array(
-        'user'=> 'root',
-        'password' => 'root',
+        'user'=> 'ragnarok',
+        'password' => 'ragnarok',
         'port_db' => 3306,
 		'ip' => '127.0.0.1',
         'db_name' => 'ragnarok',
